@@ -115,7 +115,7 @@ docker compose down
 ```
 
 
-Estructura del proyecto
+## Estructura del proyecto
 ```text
 contador-spring-boot/
 │
